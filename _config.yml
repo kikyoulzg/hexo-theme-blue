@@ -6,7 +6,7 @@
 since: 2017
 
 # Custom your favicon.ico in `site/source`
-favicon: /avatar.png
+favicon: /kikyoulzg.png
 
 # display the logo
 logo: true
@@ -67,7 +67,7 @@ google_analytics:
 google_verification:
 
 # Disqus
-disqus_shortname: rekols
+disqus_shortname: kikyoulzg
 
 #Changyan
 changyan:

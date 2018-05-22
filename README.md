@@ -1,4 +1,4 @@
-# Hexo Theme Green
+# Hexo Theme blue
 
 A super simple theme for Hexo, fork on even.
 
@@ -6,7 +6,7 @@ A super simple theme for Hexo, fork on even.
 
 ## Preview
 
-You can visit my [blog](https://blog.rekols.com/)
+You can visit my [blog](https://kikyoulzg.github.io)
 
 ## Features
 
@@ -19,16 +19,16 @@ You can visit my [blog](https://blog.rekols.com/)
 ```
 $ npm install hexo-renderer-scss --save
 $ npm install hexo-wordcount --save
-$ git clone https://github.com/rekols/hexo-theme-green.git themes/green
+$ git clone https://github.com/kikyoulzg/hexo-theme-blue.git themes/blue
 ```
 
 ## Update
 
 ```
-$ cd themes/green
+$ cd themes/blue
 $ git pull
 ```
 
 ## License
 
-hexo-theme-green is licensed under GPLv3.
+hexo-theme-blue is licensed under GPLv3.

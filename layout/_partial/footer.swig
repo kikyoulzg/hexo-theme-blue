@@ -20,7 +20,7 @@
   <span class="division">.</span>
   <span class="theme-info">
     Theme by 
-    <a class="theme-link" target="_blank" href="https://github.com/rekols/hexo-theme-green">Green</a>
+    <a class="theme-link" target="_blank" href="https://github.com/kikyoulzg/hexo-theme-blue">Blue</a>
   </span>
 
 </div>
